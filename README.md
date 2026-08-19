@@ -6,7 +6,7 @@ Lawyer Website — это веб-сайт юридических услуг, с�
 > ⚠️ **Обратите внимание:** Frontend проекта разработан на React.  
 > Серверная обработка формы выполняется отдельно через PHP-файл `submit.php`.
 
-> 🌐 Рабочая версия сайта размещается на хостинге **InfinityFree** с подключенной серверной базой данных MySQL.
+> 🌐 Рабочая версия сайта размещается на хостинге **InfinityFree** [http://lawyersite.free.je](http://lawyersite.free.je) с подключенной серверной базой данных MySQL.
 
 ***React + Vite + JavaScript + CSS + PHP + MySQL.***
 
