@@ -104,10 +104,14 @@ lawyer-site/
 Склонируйте репозиторий:
 <br>git clone https://github.com/kangy17/lawyersite_web.git
 <br>Перейдите в папку проекта:
-<br>cd lawyer-site
+```
+cd lawyer-site
+```
 ### Шаг 3. Установка зависимостей
 Установите необходимые npm-пакеты:
-<br>npm install
+```
+npm install
+```
 ### Шаг 4. Запуск React
 Запустите Vite development server:
 <br>npm run dev
@@ -117,7 +121,9 @@ lawyer-site/
 
 ## 🏗 Production-сборка
 Для создания production-версии выполните:
-<br>npm run build
+```
+npm run build
+```
 <br>После этого будет создана папка:
 ```
 dist/
@@ -128,7 +134,9 @@ dist/
 При публикации необходимо учитывать, что React и PHP выполняют разные задачи.
 ### React
 После выполнения:
-<br>npm run build
+```
+npm run build
+```
 <br>получается production-сборка:
 ```
 dist/
