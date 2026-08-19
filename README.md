@@ -114,7 +114,9 @@ npm install
 ```
 ### Шаг 4. Запуск React
 Запустите Vite development server:
-<br>npm run dev
+```
+npm run dev
+```
 <br>После запуска Vite покажет локальный адрес, например:
 <br>http://localhost:5173/
 <br>Откройте его в браузере.
